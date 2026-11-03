@@ -1,10 +1,10 @@
 # EDEN MOBILE
 
-**EDEN STREET / EDEN Suite · Repository-Vorlage 0.1.0 · Entwicklungsplanung, keine fertige Geräteintegration**
+**EDEN STREET / EDEN Suite · Gerätestrecke MOBILE (v0.1.0) · Entwicklungsplanung & Konzept-Simulation, keine fertige Geräteintegration**
 
-[![EDEN MOBILE – visualisierte Konzeptansicht](https://raw.githubusercontent.com/EDEN-STREET/.github/main/docs/media/previews/mobile.svg)](https://github.com/EDEN-STREET/.github/blob/main/docs/areas/mobile/README.md)
+[![EDEN MOBILE – visualisierte Konzeptansicht](https://raw.githubusercontent.com/EDEN-STREET/.github/main/docs/media/previews/mobile.svg)](https://eden-street.github.io/.github/preview.html?surface=mobile)
 
-[📘 Hauptdokumentation](https://github.com/EDEN-STREET/.github/blob/main/docs/EDEN-STREET-MASTERDOKUMENTATION.md) · [🖥️ Demo-Quelldatei](https://github.com/EDEN-STREET/.github/blob/main/docs/preview.html) · [🔁 Workflow 11](https://github.com/EDEN-STREET/.github/blob/main/docs/workflow.html) · [🤖 llms.txt](llms.txt)
+[🌐 Interaktive Konzept-Vorschau (DEMO)](https://eden-street.github.io/.github/preview.html?surface=mobile) · [🔁 Workflow 11 Simulator (DEMO)](https://eden-street.github.io/.github/workflow.html?id=11) · [📘 Hauptdokumentation](https://github.com/EDEN-STREET/.github/blob/main/docs/EDEN-STREET-MASTERDOKUMENTATION.md) · [🖥️ Demo-Quelldatei](https://github.com/EDEN-STREET/.github/blob/main/docs/preview.html) · [🤖 llms.txt](llms.txt)
 
 ## Geltungsbereich
 
@@ -12,16 +12,14 @@ Pixel / GrapheneOS: Modell- und Versionsmatrix, Geräteberechtigungen, Updatepfa
 
 ## Entwicklungsstatus
 
-**KONZEPT** – kein durch Gerätetests bestätigter Installer, keine Firmwareänderung, keine Live-Konfiguration. Alle Interaktionen der öffentlichen HTML-Demo sind Simulationen.
+**KONZEPT / DEMO** – kein durch Gerätetests bestätigter Installer, keine Firmwareänderung, keine Live-Konfiguration. Alle Interaktionen der öffentlichen HTML-Vorschau unter [`preview.html?surface=mobile`](https://eden-street.github.io/.github/preview.html?surface=mobile) sind reine Simulationen ohne Geräteverbindung.
 
 ## Visualisierter Workflow
 
-[![EDEN MOBILE Workflow](https://raw.githubusercontent.com/EDEN-STREET/.github/main/docs/media/workflows/WF-11.svg)](https://github.com/EDEN-STREET/.github/blob/main/docs/prompts/11-mobile.md)
+[![EDEN MOBILE Workflow](https://raw.githubusercontent.com/EDEN-STREET/.github/main/docs/media/workflows/WF-11.svg)](https://eden-street.github.io/.github/workflow.html?id=11)
 
-[Workflow und Prompt 11](https://github.com/EDEN-STREET/.github/blob/main/docs/prompts/11-mobile.md) · [Systemarchitektur](https://github.com/EDEN-STREET/.github/blob/main/docs/EDEN-ASCII-ATLAS.md)
+[Interaktiver Workflow 11 (DEMO)](https://eden-street.github.io/.github/workflow.html?id=11) · [Workflow und Prompt 11](https://github.com/EDEN-STREET/.github/blob/main/docs/prompts/11-mobile.md) · [Systemarchitektur](https://github.com/EDEN-STREET/.github/blob/main/docs/EDEN-ASCII-ATLAS.md)
 
-## Bedienung
+## Bedienung & Sicherheit
 
-[Bedienungs- und Sicherheitshinweise](docs/WORKFLOWS.md) · [llms.txt](llms.txt) · [Releaseregeln](docs/RELEASE-CHECKLIST.md)
-
-**Nach tatsächlicher Repo-Anlage:** Entwicklungszweige, Issue-Templates, Codeowner, CI, Datenschutz und Lizenzentscheidung konfigurieren. Diese Vorlage nicht als bereits veröffentlichtes Repository ausgeben.
+[Projektstand](docs/PROJEKTSTAND.md) · [Bedienungs- und Sicherheitshinweise](docs/WORKFLOWS.md) · [llms.txt](llms.txt) · [Releaseregeln](docs/RELEASE-CHECKLIST.md) · [SECURITY.md](SECURITY.md) · [CHANGELOG.md](CHANGELOG.md)
