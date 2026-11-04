@@ -1,7 +1,7 @@
 # EDEN Suite · Arbeitsauftrag 11: MOBILE und GrapheneOS
-[![Visualisierte Workflow-Vorschau 11](../media/workflows/WF-11.svg)](../workflow.html?id=11)
+[![Visualisierte Workflow-Vorschau 11](https://raw.githubusercontent.com/EDEN-STREET/.github/main/docs/media/workflows/WF-11.svg)](https://eden-street.github.io/.github/workflow.html?id=11)
 
-**[Interaktive Schritt-für-Schritt-Demo öffnen](../workflow.html?id=11)** · Die Darstellung ist eine simulierte Prozessansicht, kein tatsächlich ausgeführter Workflow.
+**[Interaktive Schritt-für-Schritt-Demo öffnen](https://eden-street.github.io/.github/workflow.html?id=11)** · Die Darstellung ist eine simulierte Prozessansicht, kein tatsächlich ausgeführter Workflow.
 
 
 
@@ -55,4 +55,4 @@
 **Freigaberegel:** Keine unautorisierten Änderungen an Betriebssystem, Firmware, Netzwerkinfrastruktur, Partitionierung oder Zugriffsrechten. Keine Secrets und privaten Originale in öffentliche Repositories.
 
 ## Verknüpfungen
-[Masterdokumentation](../EDEN-STREET-MASTERDOKUMENTATION.md) · [Agentenrollen](../AGENTEN-UND-WORKFLOWS.md) · [Demoportal](../index.html)
+[Masterdokumentation](https://github.com/EDEN-STREET/.github/blob/main/docs/EDEN-STREET-MASTERDOKUMENTATION.md) · [Agentenrollen](https://github.com/EDEN-STREET/.github/blob/main/docs/AGENTEN-UND-WORKFLOWS.md) · [Demoportal](https://eden-street.github.io/.github/)
